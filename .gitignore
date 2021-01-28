@@ -18,7 +18,6 @@ logs
 .env
 .env.bak*
 .DS_STORE
-*~
 *.swp
 .nfs*
 .Trash-*
